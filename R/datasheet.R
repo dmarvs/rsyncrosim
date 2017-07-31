@@ -38,6 +38,8 @@ NULL
 #' @param includeKey Logical. If TRUE include primary key in output table.
 #' @param forceElements Logical. If FALSE and name has a single element returns a dataframe; otherwise a list of dataframes. Ignored if summary=TRUE.
 #' @return If summary=T returns a dataframe of datasheet names and other info, otherwise returns a dataframe or list of these.
+#' @examples 
+#' #put an example here...
 #' @export
 #' @import RSQLite
 setGeneric('datasheet',function(ssimObject,name=NULL,project=NULL,scenario=NULL,summary=NULL,optional=F,empty=F,lookupsAsFactors=T,sqlStatements=list(select="SELECT *",groupBy=""),includeKey=F,forceElements=F) standardGeneric('datasheet'))

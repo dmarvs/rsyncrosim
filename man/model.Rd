@@ -3,9 +3,9 @@
 \docType{methods}
 \name{model}
 \alias{model}
+\alias{model,missingOrNULL-method}
 \alias{model,Session-method}
 \alias{model,SsimLibrary-method}
-\alias{model,missingOrNULL-method}
 \title{Installed models}
 \usage{
 model(ssimObject = NULL)
@@ -25,4 +25,3 @@ A dataframe of models (for Session) or named vector of character strings (for Ss
 \description{
 Models installed with this version of SyncroSim
 }
-

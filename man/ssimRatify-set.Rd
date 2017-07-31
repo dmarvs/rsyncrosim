@@ -34,4 +34,3 @@ The (optional) Color column of a rat table should have one of these formats:
 levels(myRaster) #retrieve raster attribute table
 
 }
-

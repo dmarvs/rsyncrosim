@@ -3,8 +3,8 @@
 \docType{methods}
 \name{module}
 \alias{module}
-\alias{module,Session-method}
 \alias{module,missingOrNULL-method}
+\alias{module,Session-method}
 \title{Installed modules}
 \usage{
 module(session)
@@ -22,4 +22,3 @@ A dataframe of modules
 \description{
 Modules installed with this version of SyncroSim
 }
-

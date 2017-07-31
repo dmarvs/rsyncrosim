@@ -19,4 +19,3 @@ Character string of the run log.
 \description{
 The runLog of a result Scenario
 }
-

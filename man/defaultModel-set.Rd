@@ -18,4 +18,3 @@ defaultModel(session) <- value
 \description{
 Set defaultModel of a session
 }
-

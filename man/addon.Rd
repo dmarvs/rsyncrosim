@@ -3,9 +3,9 @@
 \docType{methods}
 \name{addon}
 \alias{addon}
+\alias{addon,missingOrNULL-method}
 \alias{addon,Session-method}
 \alias{addon,SsimObject-method}
-\alias{addon,missingOrNULL-method}
 \title{addon(s) of an SsimLibrary or Session}
 \usage{
 addon(ssimObject)
@@ -28,4 +28,3 @@ The addon(s) of an SsimLibrary or Session.
 \examples{
 addon(ssimLibrary(name="stsim"))
 }
-

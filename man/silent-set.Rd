@@ -18,4 +18,3 @@ silent(session) <- value
 \description{
 Set silent property of a sessio to TRUE or FALSE
 }
-

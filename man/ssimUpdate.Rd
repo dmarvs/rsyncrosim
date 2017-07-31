@@ -19,4 +19,3 @@ ssimUpdate(ssimObject)
 \description{
 Apply updates to a SyncroSim Library,or a Project or Scenario associated with a Library.
 }
-

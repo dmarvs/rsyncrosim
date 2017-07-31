@@ -3,9 +3,9 @@
 \docType{methods}
 \name{readOnly}
 \alias{readOnly}
+\alias{readOnly,SsimLibrary-method}
 \alias{readOnly,Project-method}
 \alias{readOnly,Scenario-method}
-\alias{readOnly,SsimLibrary-method}
 \title{Read-only status of an SsimLibrary/Project/Scenario.}
 \usage{
 readOnly(ssimObject)
@@ -25,4 +25,3 @@ logical.
 \description{
 Whether or not an SsimLibrary/ProjectScenario is read-only.
 }
-

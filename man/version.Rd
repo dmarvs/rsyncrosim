@@ -3,8 +3,8 @@
 \docType{methods}
 \name{version}
 \alias{version}
-\alias{version,Session-method}
 \alias{version,missingOrNULL-method}
+\alias{version,Session-method}
 \title{The SyncroSim version}
 \usage{
 version(session = NULL)
@@ -19,4 +19,3 @@ version(session = NULL)
 \description{
 The version of a SyncroSim Session
 }
-

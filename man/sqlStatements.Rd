@@ -38,4 +38,3 @@ mySQL = sqlStatements(groupBy=c("ScenarioID","Iteration","Timestep","StateLabelX
 mySQL 
 
 }
-

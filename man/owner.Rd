@@ -3,9 +3,9 @@
 \docType{methods}
 \name{owner}
 \alias{owner}
+\alias{owner,SsimLibrary-method}
 \alias{owner,Project-method}
 \alias{owner,Scenario-method}
-\alias{owner,SsimLibrary-method}
 \title{The owner of a SsimLibrary/Project/Scenario.}
 \usage{
 owner(ssimObject)
@@ -22,4 +22,3 @@ owner(ssimObject)
 \description{
 The owner of an SsimLibrary/ProjectScenario
 }
-

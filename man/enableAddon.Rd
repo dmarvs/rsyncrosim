@@ -27,4 +27,3 @@ myLibrary = ssimLibrary()
 enableAddon(myLibrary,c("stsim-ecological-departure", "stsim-stock-flow"))
 addon(myLibrary)
 }
-

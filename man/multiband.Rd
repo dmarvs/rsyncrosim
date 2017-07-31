@@ -41,4 +41,3 @@ multiband(myResultScenario,action="apply",grouping="All")
 multiband(myResultScenario,action="remove")
 
 }
-

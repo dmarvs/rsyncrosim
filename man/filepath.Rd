@@ -19,4 +19,3 @@ filepath(ssimObject)
 \description{
 The path to a SyncroSim Session, SSimLibarary, Project or Scenario on disk.
 }
-

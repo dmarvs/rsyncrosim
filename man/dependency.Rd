@@ -34,4 +34,3 @@ Note that the order of dependencies can be important - dependencies added most r
 So, dependencies included in the dependency argument take precedence over any other existing dependencies.
 If the dependency argument includes more than one element, elements are ordered from lowest to highest precedence.
 }
-

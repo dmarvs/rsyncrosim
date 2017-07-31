@@ -18,4 +18,3 @@ owner(ssimObject) <- value
 \description{
 Set the owner of an SsimLibrary/Project/Scenario.
 }
-

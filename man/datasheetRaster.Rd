@@ -3,9 +3,9 @@
 \docType{methods}
 \name{datasheetRaster}
 \alias{datasheetRaster}
-\alias{datasheetRaster,Scenario-method}
-\alias{datasheetRaster,SsimObject-method}
 \alias{datasheetRaster,list-method}
+\alias{datasheetRaster,SsimObject-method}
+\alias{datasheetRaster,Scenario-method}
 \title{Get spatial inputs or outputs from a Scenario(s).}
 \usage{
 datasheetRaster(ssimObject, datasheet, column = NULL, scenario = NULL,
@@ -66,4 +66,3 @@ For datasheets containing Filename this is: paste0(<datasheet name>,".Scn",<scen
 datasheetRaster(myResult,datasheet="STSim_OutputSpatialState",
   subset=expression(grepl("Ts0001",Filename,fixed=T)))
 }
-

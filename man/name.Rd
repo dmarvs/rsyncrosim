@@ -3,9 +3,9 @@
 \docType{methods}
 \name{name}
 \alias{name}
-\alias{name,Project-method}
-\alias{name,Scenario-method}
 \alias{name,SsimLibrary-method}
+\alias{name,Scenario-method}
+\alias{name,Project-method}
 \title{The name of a SyncroSim library, project or scenario.}
 \usage{
 name(ssimObject)
@@ -25,4 +25,3 @@ character string
 \description{
 The name of an SsimLibrary, Project or Scenario.
 }
-

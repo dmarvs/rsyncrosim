@@ -16,4 +16,3 @@ description(ssimObject)
 \description{
 The description of an SsimLibrary/ProjectScenario.
 }
-

@@ -16,4 +16,3 @@ backup(ssimObject)
 \description{
 Backup an SsimLibrary.
 }
-

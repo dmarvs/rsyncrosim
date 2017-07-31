@@ -18,4 +18,3 @@ description(ssimObject) <- value
 \description{
 Set the description of an SsimLibrary/ProjectScenario.
 }
-

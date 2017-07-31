@@ -48,4 +48,3 @@ There are 2 circumstances in which data will not be appended even if append=T:
   \item Old data will be replaced by new data if the datasheet allows only a single row.
 }
 }
-

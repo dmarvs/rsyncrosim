@@ -30,4 +30,3 @@ myLibrary = ssimLibrary()
 session(myLibrary)=session()
 session(myLibrary)
 }
-
